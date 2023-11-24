@@ -35,7 +35,7 @@ internal class Program
 
         if (IsMatrixSymmetric(m, n))
         {
-            Console.WriteLine("YYEEESSS");
+            Console.WriteLine("YYEEESSS!!!!!!!");
         }
         else
         {
